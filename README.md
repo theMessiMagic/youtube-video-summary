@@ -1,4 +1,4 @@
-<img width="1261" height="240" alt="Screenshot 2025-09-15 172842" src="https://github.com/user-attachments/assets/f8337abe-2692-4951-bbee-3962d0bac1da" />## Instructions to use the Software:
+## Instructions to use the Software:
 #### Step 0 --> Clone my code by clicking the green colore **Code** option.
 
 <img width="1792" height="660" alt="image" src="https://github.com/user-attachments/assets/590c8c88-9078-4984-9f3c-a04ab5caa03f" />
