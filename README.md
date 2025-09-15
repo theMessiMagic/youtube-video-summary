@@ -1,11 +1,11 @@
-## Instructions to use the Software:
+# Instructions to use the Software:
 #### Step 0 --> Clone my code by using the link given after clicking the green Code option.
 
 <img width="1792" height="660" alt="image" src="https://github.com/user-attachments/assets/590c8c88-9078-4984-9f3c-a04ab5caa03f" />
 
-> You don't have to perform Step 2 now since I have shared my .env file risking my API secret key. You Dirctly JUMP TO --> Step 3
-
 #### Step 1 --> First create a Gemini-API key from the [Link](https://aistudio.google.com/apikey?_gl=1*tgvudq*_up*MQ..&gclid=Cj0KCQjw8p7GBhCjARIsAEhghZ2D7-mats0Z12bTHZhS69E7VlujY-9LYDD8NVTvwBxSSaJ4us0rguMaAu0-EALw_wcB&gclsrc=aw.ds&gbraid=0AAAAACn9t6597NCWA2LP5ucYcNaksN6le) and copy the secret key. 
+
+## > FOR NOW: You don't have to perform Step 2, since I have shared my .env file risking my API secret key. You Directly JUMP TO --> Step 3
 
 #### Step 2 --> Come to VS code (any code editor software you wish), create an .env file and store the secret key in the variable named GOOGLE_API_KEY within quotation: for eg: GOOGLE_API_KEY = "AIzaSyABCND0oy4y_D3DcS0jrOtANdyCKAJGYRU".
 
