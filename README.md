@@ -4,7 +4,7 @@
 #### Step 2 --> Come to VS code (any code editor software you wish), create an .env file and store the secret key in the variable named GOOGLE_API_KEY within quotation: for eg: GOOGLE_API_KEY = "AIzaSyABCND0oy4y_D3DcS0jrOtANdyCKAJGYRU".
 #### Step 3 --> Then open a new Terminal in the editor and create a virtual environment there.
 #### Step 4 --> Then install the requirement.txt file in the terminal of the editor
-#### Step 5 --> Then run the > youtube-video-summary.py file, there it will ask for a yt vdo link, copy one from the Youtube and paste there.
+#### Step 5 --> Then run the youtube-video-summary.py file, there it will ask for a yt vdo link, copy one from the Youtube and paste there.
 ### Now wait for a minute and your .html file is ready open it in a browser to see the MESSI_MAGIC.
 
 Thanks.
