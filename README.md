@@ -3,7 +3,7 @@
 
 <img width="1792" height="660" alt="image" src="https://github.com/user-attachments/assets/590c8c88-9078-4984-9f3c-a04ab5caa03f" />
 
-## > FOR NOW: You don't have to perform Step 1 and Step 2, since I have shared my .env file risking my API secret key. You Directly JUMP TO --> Step 3
+> FOR NOW: You don't have to perform Step 1 and Step 2, since I have shared my .env file risking my API secret key. You Directly JUMP TO --> Step 3
 
 #### Step 1 --> First create a Gemini-API key from the [Link](https://aistudio.google.com/apikey?_gl=1*tgvudq*_up*MQ..&gclid=Cj0KCQjw8p7GBhCjARIsAEhghZ2D7-mats0Z12bTHZhS69E7VlujY-9LYDD8NVTvwBxSSaJ4us0rguMaAu0-EALw_wcB&gclsrc=aw.ds&gbraid=0AAAAACn9t6597NCWA2LP5ucYcNaksN6le) and copy the secret key. 
 
