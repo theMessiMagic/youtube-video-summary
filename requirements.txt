@@ -1,0 +1,16 @@
+# LangChain Core:
+langChain
+langchain-core
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+# Environment Variable Management
+python-dotenv
+
+# Youtube caption Extractor
+youtube_transcript_api
+
+# Google API py-client
+google-api-python-client
