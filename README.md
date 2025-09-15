@@ -1,5 +1,5 @@
 ## Instructions to use the Software:
-#### Step 0 --> Clone my code by clicking the green colore **Code** option.
+#### Step 0 --> Clone my code by using the link given after clicking the green Code option.
 
 <img width="1792" height="660" alt="image" src="https://github.com/user-attachments/assets/590c8c88-9078-4984-9f3c-a04ab5caa03f" />
 
