@@ -60,7 +60,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 model = ChatGoogleGenerativeAI(model = 'gemini-2.5-flash-lite')
 
 # prompt for creating summary of the subtitle fetched:
-prompt1 = f'Create a concise, well-structured, and attractive summary of the following text{full_text}. The summary should be organized into clear sections or bullet points to enhance readability and highlight the key takeaways. The tone should be engaging and the style should be attractive to the reader.'
+prompt1 = f'Create a concise, well-structured, and attractive summary of the following text{full_text}. The summary should be organized into clear sections or bullet points to enhance readability and highlight the key takeaways. The tone should be engaging and the style should be attractive to the reader. Also make sure that if there is any mathematical formula write in correct form and structure no LaTex text appear.'
 result = model.invoke(prompt1)
 
 # storing the summary:
